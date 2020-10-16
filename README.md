@@ -10,6 +10,6 @@
 
 ### Sounds
 
-- Ale - Disc 11, 13
-- Hannah - Discs, Overworld
+- Ale - Disc 11 and 13 , Overworld Music
+- Hannah - Discs, Dirt
 - Dice - UI, Nether
