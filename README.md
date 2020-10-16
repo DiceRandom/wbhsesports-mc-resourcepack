@@ -2,3 +2,6 @@
 
 
 Austin - End
+Ale - Enderman, Strider, Disc 11
+Hannah - Discs, Overworld
+Dice - UI, Nether
