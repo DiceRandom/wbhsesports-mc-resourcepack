@@ -1,5 +1,6 @@
 # Collab Minecraft Resource Pack from WBHS E-Sports
 
+### Textures
 
 - Austin - End
 - Ale - Enderman, Strider, Disc 11, 13
