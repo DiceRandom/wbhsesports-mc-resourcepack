@@ -2,6 +2,13 @@
 
 
 - Austin - End
-- Ale - Enderman, Strider, Disc 11
+- Ale - Enderman, Strider, Disc 11, 13
+- Hannah - Discs, Overworld
+- Dice - UI, Nether
+
+
+### Sounds
+
+- Ale - Disc 11, 13
 - Hannah - Discs, Overworld
 - Dice - UI, Nether
